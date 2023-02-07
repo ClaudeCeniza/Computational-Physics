@@ -4,7 +4,7 @@ Computational techniques:
   (1) numerical derivative,
   (2) numerical integration,
   (3) root finding,
-  (4) numerical method to solve coupled differential equations
+  (4) numerical method to solve coupled differential equations,
   (5) QR decomposition,
   (6) singular value decomposition (SVD),
   (7) matrix diagonalization,
