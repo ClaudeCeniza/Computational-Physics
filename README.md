@@ -8,6 +8,7 @@ Computational techniques:
   (5) QR decomposition,
   (6) singular value decomposition (SVD),
   (7) matrix diagonalization,
-  (8) data compression.
+  (8) data compression,
+  (9) numerical method to solve partial differential equation. 
   
   
