@@ -6,7 +6,7 @@ Computational techniques:
   (3) root finding,
   (4) numerical method to solve coupled differential equations
   (5) QR decomposition,
-  (6) singular value decomposition, (SVD)
+  (6) singular value decomposition (SVD),
   (7) matrix diagonaization,
   (8) data compression.
   
